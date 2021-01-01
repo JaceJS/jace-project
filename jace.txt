@@ -1,0 +1,3 @@
+- Konsisten belajar menjadi software engineer
+- Lebih produktif
+- Belajar dan menguasai C++,Java, dan Python
